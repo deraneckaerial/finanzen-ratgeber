@@ -1,0 +1,9 @@
+title: "Finanzen Ratgeber"
+description: "Kreditkarten, Kredite & Bankvergleiche für DACH"
+url: "https://deraneckaerial.github.io"
+baseurl: "/finanzen-ratgeber"
+lang: de
+permalink: /:title/
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
